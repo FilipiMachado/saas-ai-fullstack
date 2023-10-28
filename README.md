@@ -1,34 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="https://imgur.com/JZ8mYYm"><img src="https://imgur.com/JZ8mYYm.png" title="source: imgur.com" /></a>
+</p>
 
-## Getting Started
+## 💻 Project
 
-First, run the development server:
+The project have a purpose of "Find your Duo". You will be able to find the perfect partner to play your favorite game together, by adding it's account on Discord.
+
+<p align="center">
+  <a href="https://imgur.com/2vfvOAV"><img src="https://imgur.com/2vfvOAV.png" title="source: imgur.com" /></a>
+</p>
+<p align="center">
+  <a href="https://imgur.com/YZ5UGKb"><img src="https://imgur.com/YZ5UGKb.png" title="source: imgur.com" /></a>
+</p>
+<p align="center">
+  <a href="https://imgur.com/dbsoNlz"><img src="https://imgur.com/dbsoNlz.png" title="source: imgur.com" /></a>
+</p>
+<p align="center">
+  <a href="https://imgur.com/jLMO94p"><img src="https://imgur.com/jLMO94p.png" title="source: imgur.com" /></a>
+</p>
+<p align="center">
+  <a href="https://imgur.com/8Y4q5WL"><img src="https://imgur.com/8Y4q5WL.png" title="source: imgur.com" /></a>
+</p>
+
+<br>
+
+## ⚡ Technologies
+
+This project was developed using this technologies:
+
+- [React.JS](https://reactjs.org/)
+- [React.Native](https://reactnative.dev/)
+- [Node.JS](https://nodejs.org/en/)
+- [Vite](https://vitejs.dev/)
+- [Expo](https://expo.dev/)
+- [Prisma](https://www.prisma.io/)
+- [Radix-UI](https://www.radix-ui.com/)
+- [Tailwind](https://tailwindcss.com/)
+
+## 🚀 How to Execute
+
+Clone the project and access the folder.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+$ git clone https://github.com/FilipiMachado/esports-project
+$ cd esports-project
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To start the WEB project, follow this steps:
+```bash
+# Install the dependencies
+$ npm install
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Start the project
+$ npm run dev
+```
+The app will be available in this address http://127.0.0.1:5173/
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## <br>
 
-## Learn More
+To start the MOBILE project, follow this steps:
+```bash
+# Install the dependencies
+$ npm install
 
-To learn more about Next.js, take a look at the following resources:
+# Start the project
+$ npm start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## <br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To start the SERVER project, follow this steps:
 
-## Deploy on Vercel
+```bash
+# First, create a new .env file on the root directory, using the .env.example template as base.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Then, to create the local database, run:
+$ npm install
+$ npm run db:migrate
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Start the project
+$ npm run dev
+```
+
+## 📝 License
+
+This project is under MIT license. Read this file [LICENSE](LICENSE.md) for more details.
