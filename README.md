@@ -6,9 +6,9 @@
 
 ## 💻 Project (Work in Progress)
 
-<strong>Access the platform:</strong> https://saas-ai-fullstack-production.up.railway.app/ (Login is Needed)
+## <strong>Access the platform:</strong> https://saas-ai-fullstack-production.up.railway.app/ (Login is Needed)
 
-## A Saas platform designed to generate text, video, music, images, and code using AI.
+## A SaaS platform designed to generate text, video, music, images, and code using AI.
 
 <p align="center">
   <a href="https://i.imgur.com/fNJtXdO.png"><img src="https://i.imgur.com/fNJtXdO.png" title="source: imgur.com" /></a>
