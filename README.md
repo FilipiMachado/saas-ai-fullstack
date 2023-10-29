@@ -6,7 +6,7 @@
 
 ## 💻 Project (Work in Progress)
 
-## <strong>Access the platform:</strong> https://saas-ai-fullstack-production.up.railway.app/ (Login is Needed)
+<strong>Access the platform:</strong> https://saas-ai-fullstack-production.up.railway.app/ (Login is Needed)
 
 ## A SaaS platform designed to generate text, video, music, images, and code using AI.
 
