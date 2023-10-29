@@ -6,7 +6,7 @@
 
 ## 💻 Project (Work in Progress)
 
-ADICIONAR DESCRIÇÃO
+A Saas platform designed to generate text, video, music, images, and code using AI.
 
 <p align="center">
   <a href="https://i.imgur.com/fNJtXdO.png"><img src="https://i.imgur.com/fNJtXdO.png" title="source: imgur.com" /></a>
