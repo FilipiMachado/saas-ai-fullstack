@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://i.imgur.com/Ht6r3O9.png"><img src="https://i.imgur.com/Ht6r3O9.png" title="source: imgur.com" /></a>
+  <a href="https://i.imgur.com/Ht6r3O9.png"><img src="https://i.imgur.com/Ht6r3O9.png" style="width: 250px; height: 200px;" title="source: imgur.com" /></a>
 </p>
 
 ## 💻 Project (Work in Progress)
